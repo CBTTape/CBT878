@@ -1,0 +1,12 @@
+2023-08-06 08:10:59.745134 - Initialized conversion of CBT878
+2023-08-06 08:10:59.805142 - Received CBT.V505.FILE878.PDS from FILE878.XMI 
+2023-08-06 08:10:59.807641 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE878.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:10:59.808758 - Found $ASMLINK.jcl (text/plain) in CBT.V505.FILE878.PDS, moved to PDS/$ASMLINK
+2023-08-06 08:10:59.809971 - Found @FILE878.txt (text/plain) in CBT.V505.FILE878.PDS, moved to PDS/@FILE878
+2023-08-06 08:10:59.811014 - Found BEGIN.txt (text/plain) in CBT.V505.FILE878.PDS, moved to PDS/BEGIN
+2023-08-06 08:10:59.811987 - Found BURN.txt (text/plain) in CBT.V505.FILE878.PDS, moved to PDS/BURN
+2023-08-06 08:10:59.813009 - Found BURN#.txt (text/plain) in CBT.V505.FILE878.PDS, moved to PDS/BURN#
+2023-08-06 08:10:59.813960 - Found ESTPARM.txt (text/plain) in CBT.V505.FILE878.PDS, moved to PDS/ESTPARM
+2023-08-06 08:10:59.814942 - Found EXIT.txt (text/plain) in CBT.V505.FILE878.PDS, moved to PDS/EXIT
+2023-08-06 08:10:59.815833 - Found WSDSECT.txt (text/plain) in CBT.V505.FILE878.PDS, moved to PDS/WSDSECT
+2023-08-06 08:10:59.816748 - Found WSEND.txt (text/plain) in CBT.V505.FILE878.PDS, moved to PDS/WSEND
