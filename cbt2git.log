@@ -1,11 +1,11 @@
-2025-04-15 06:25:45.174687 - Received CBT.V508.FILE878.PDS from FILE878.XMI 
-2025-04-15 06:25:45.175835 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/$$$#DATE
-2025-04-15 06:25:45.175966 - Found $ASMLINK.jcl (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/$ASMLINK
-2025-04-15 06:25:45.176092 - Found @FILE878.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/@FILE878
-2025-04-15 06:25:45.176217 - Found BEGIN.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/BEGIN
-2025-04-15 06:25:45.176427 - Found BURN.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/BURN
-2025-04-15 06:25:45.176528 - Found BURN#.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/BURN#
-2025-04-15 06:25:45.176765 - Found ESTPARM.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/ESTPARM
-2025-04-15 06:25:45.177013 - Found EXIT.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/EXIT
-2025-04-15 06:25:45.177155 - Found WSDSECT.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/WSDSECT
-2025-04-15 06:25:45.177268 - Found WSEND.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/WSEND
+2025-04-16 01:03:36.089218 - Received CBT.V508.FILE878.PDS from FILE878.XMI 
+2025-04-16 01:03:36.090336 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/$$$#DATE
+2025-04-16 01:03:36.090536 - Found $ASMLINK.jcl (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/$ASMLINK
+2025-04-16 01:03:36.090606 - Found @FILE878.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/@FILE878
+2025-04-16 01:03:36.090754 - Found BEGIN.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/BEGIN
+2025-04-16 01:03:36.091031 - Found BURN.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/BURN
+2025-04-16 01:03:36.091182 - Found BURN#.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/BURN#
+2025-04-16 01:03:36.091325 - Found ESTPARM.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/ESTPARM
+2025-04-16 01:03:36.091432 - Found EXIT.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/EXIT
+2025-04-16 01:03:36.091546 - Found WSDSECT.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/WSDSECT
+2025-04-16 01:03:36.091639 - Found WSEND.txt (text/plain) in CBT.V508.FILE878.PDS, moved to PDS/WSEND
